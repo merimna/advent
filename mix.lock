@@ -1,0 +1,2 @@
+%{"ex_parameterized": {:hex, :ex_parameterized, "1.0.2"},
+  "multidef": {:hex, :multidef, "0.2.1"}}
